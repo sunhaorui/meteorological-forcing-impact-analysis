@@ -8,9 +8,9 @@ WY = 2019;
 % Reanalysis tile location (lower-left corner) for Merced
 coords=[37 -120]; % 37 N, 120 W
 % Reanalysis output file directory
-root_dir='~/OUTPUT/USCAMB/';
+root_dir='~';
 % ASO directory (resampled to model grids already)
-aso_dir = '~/MF_code_and_data/ASO/';
+aso_dir = '~';
 
 %% Extract Prior estimates
 % Load ASO raw data (resampled to model resolution)
